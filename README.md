@@ -25,9 +25,7 @@ Sales Management Dashboard
 
 <img width="596" alt="image" src="https://github.com/BenDatta/Sales-Report-Overview/assets/135694513/9bbdc2da-9fc0-4717-82be-f2d33ac52957">
 
-[https://app.powerbi.com/reportEmbed?reportId=e108b7f2-5269-44eb-939d-60183f0519b2&autoAuth=true&ctid=3bc9111a-cd25-445e-9125-e44a47ec1b9b ](https://app.powerbi.com/reportEmbed?reportId=e108b7f2-5269-44eb-939d-60183f0519b2&autoAuth=true&ctid=3bc9111a-cd25-445e-9125-e44a47ec1b9b)https://app.powerbi.com/reportEmbed?reportId=e108b7f2-5269-44eb-939d-60183f0519b2&autoAuth=true&ctid=3bc9111a-cd25-445e-9125-e44a47ec1b9b
-
-
+https://app.powerbi.com/view?r=eyJrIjoiODUxYjI1ODUtZDU0Mi00NjhkLWFiZTQtM2MwNTE2ZTViZjg5IiwidCI6IjNiYzkxMTFhLWNkMjUtNDQ1ZS05MTI1LWU0NGE0N2VjMWI5YiIsImMiOjh9
 
 
 
